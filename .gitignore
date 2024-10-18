@@ -1,3 +1,4 @@
-virtual_env/
+clase07/db.sqlite3
+venv/
 *.pyc
 __pycache_/
